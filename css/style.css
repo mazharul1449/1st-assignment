@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: aquamarine;  
+}
+header h1{
+    text-align: center;
+    color: black;
+    padding: 20px;
+}
+nav{
+    background-color: blueviolet;
+}
+nav h1{
+    color: greenyellow;
+    text-align: center;
+    padding: 20px;
+}
+section{
+    overflow: hidden;
+}
+aside{
+    background-color: teal;
+    color: honeydew;
+    height:250px;
+    width:20%;
+    float: left;
+    text-align: center;
+    padding-top:250px;
+}
+article{
+    background-color: tomato;
+    color: honeydew;
+    float: right;
+    width:80%;
+    height:250px;
+    text-align: center;
+    padding-top: 250px;
+}
+footer{
+    background-color: indigo;
+}
+footer h1{
+    text-align: center;
+    color: black;
+    padding: 20px;
+}
+
